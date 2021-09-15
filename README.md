@@ -1,4 +1,4 @@
-# Salvando vidas prevendo a ocorrência de paradas cardaiorespiratórias
+# Salvando vidas prevendo a ocorrência de paradas cardiorrespiratórias
 
 ## Introdução
 
